@@ -1,4 +1,4 @@
-# React Native Animated Loader 
+# React Native Animated Loader Typescript
 
 Read more about this package [here](https://www.freecodecamp.org/news/how-to-create-a-beautifully-animated-loader-in-react-native-21da37a8f6b0/).
 
