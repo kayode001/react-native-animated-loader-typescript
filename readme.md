@@ -1,18 +1,5 @@
 # React Native Animated Loader Typescript
-
-Read more about this package [here](https://www.freecodecamp.org/news/how-to-create-a-beautifully-animated-loader-in-react-native-21da37a8f6b0/).
-
-[![downloads](https://img.shields.io/npm/dt/react-native-animated-loader.svg)](http://npm-stats.com/~packages/react-native-animated-loader)
-[![npm-version](https://img.shields.io/npm/v/react-native-animated-loader.svg)](https://www.npmjs.com/package/react-native-animated-loader)
-[![github-tag](https://img.shields.io/github/tag/vikrantnegi/react-native-animated-loader.svg?maxAge=1800)](https://github.com/vikrantnegi/react-native-animated-loader/)
-[![license](https://img.shields.io/github/license/vikrantnegi/react-native-animated-loader.svg?maxAge=1800)](https://yarnpkg.com/en/package/react-native-animated-loader)
-
-A React Native Loader Component which uses Airbnb's [Lottie](https://github.com/react-native-community/lottie-react-native) for beautiful loader animations.
-
-<img src="./assets/loader1.gif" width="200"> &nbsp;&nbsp;
-<img src="./assets/loader2.gif" width="200"> &nbsp;&nbsp;
-<img src="./assets/loader3.gif" width="200">
-
+ 
 
 ## Prerequisites
 ### Using React Native CLI
@@ -94,18 +81,3 @@ You can find free lottie files for your loaders [here](https://lottiefiles.com/s
 |**`speed`**| The speed the animation will progress. | `1` |
 |**`loop`**| A boolean flag indicating whether or not the animation should loop. | `true` |
 
-## Work in Progress
-- [ ] Add expo example
-- [ ] Add ability to render text with animations
-- [ ] Add test cases
-
-## License
-Licensed under the [MIT](https://github.com/vikrantnegi/react-native-animated-loader/blob/master/LICENSE).
-
-## Donation
-If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
-
-<a href="https://www.buymeacoffee.com/vikrantnegi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6Z0JL)
-"# react-native-animated-loader-typscript" 
