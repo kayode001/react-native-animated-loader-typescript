@@ -26,11 +26,11 @@ No need to do anything specific, just install the package itself. Expo already h
 ## Install
 
 ```
-yarn add react-native-animated-loader
+yarn add https://github.com/kayode001/react-native-animated-loader-typscript.git
 ```
 or
 ```
-npm install react-native-animated-loader --save
+npm install https://github.com/kayode001/react-native-animated-loader-typscript.git --save
 ```
 
 ## Usage
